@@ -16,11 +16,13 @@ each attribute needs two main features those are `the NAME` and `the VALUE`
 ## Elements  
 
 `<div>` | used to group set of elements together
+-------- | -------------------
 `<span>` | used to contain a section of text or anumber of inline elements
 `<iframe>` | acts like a window that cut into the page, commonly used to embed Google Maps intothe page.
 `src` | specify the URL of the page and  it's an attribute.
 ## Elements supported by HTML5 
 `<header>` | for content purposed to appear in the top of the page site
+-----------| ------------------------------------------------------------------------------------------------------------------------
 `<footer>` | the section that appears in the bottom of the page
 `<nav>` | contains the major navigational blocks of the web page
 `<article>` | container for a section that could stand alone 
@@ -32,6 +34,7 @@ you can use Escape characters ,thoseare special codes helps to show symbols that
 
 
 < | less than sign | `&lt;` `&#60;`
+--|-----------------|----------------
 `>` | Greater-than sign | `&gt;` `&amp;`
 £ | pound sign | `&pound;`  `&#163;`
 ¤ | Euro sign | `&euro;` `&#8364;`

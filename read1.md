@@ -24,15 +24,10 @@ each attribute needs two main features those are `the NAME` and `the VALUE`
 `<header>` | for content purposed to appear in the top of the page site
 ----------|--------------------------------------------------------
 `<footer>` | the section that appears in the bottom of the page
----------|--------------------------------------------------------
 `<nav>` | contains the major navigational blocks of the web page
---------|-------------------------------------------------------
 `<article>` | container for a section that could stand alone 
-------------|---------------------------------
 `<aside>` | could be embeded inside the page or an article element and it containesc information related to it's parent element 
----------|------------------------------------------------------------------------------------------------------------------------
 `<section>` |  groupsrelated content together and typically each section would have its own heading
-------------|-------------------------------------------------------------------------------------
 
 **but what if you want to embed a character that used in  HTML's Syntax into your content?**
 you can use Escape characters ,thoseare special codes helps to show symbols that used in the code it selfe or indicate terms such as copyrights or trademarks.

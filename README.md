@@ -1,9 +1,9 @@
  # Code 201 Reading-Notes 
 
 **Content**
-* [Introductory into HTML&Java Script](https://aishahsatouf.github.io/201reading-notes/read1.md)
-* [HTML text,CSS.Introduction,Java Script instructons](https://aishahsatouf.github.io/201reading-notes/class02.md)
-* [HTML lists.css boxes,JS conrol flow](https://aishahsatouf.github.io/201reading-notes/read03.md)
+* [Introductory into HTML&Java Script](https://aishahsatouf.github.io/201reading-notes/read1)
+* [HTML text,CSS.Introduction,Java Script instructons](https://aishahsatouf.github.io/201reading-notes/class02)
+* [HTML lists.css boxes,JS conrol flow](https://aishahsatouf.github.io/201reading-notes/read03)
 * [HTML link, Css layout,JS fnction](https://aishahsatouf.github.io/201reading-notes/)
 * [HTML images,Css colors&text](https://aishahsatouf.github.io/201reading-notes/)
 * [JS Object literals,the DOM](https://aishahsatouf.github.io/201reading-notes/)

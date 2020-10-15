@@ -10,7 +10,7 @@
 * [HTML tables,JS constructor function](https://aishahsatouf.github.io/201reading-notes/read07)
 * [More Csslayout](https://aishahsatouf.github.io/201reading-notes/read08)
 * [Forms and events](https://aishahsatouf.github.io/201reading-notes/read09)
-* [JS,Debugging](https://aishahsatouf.github.io/201reading-notes/)
+* [JS,Debugging](https://aishahsatouf.github.io/201reading-notes/read10)
 * [Assorted topics](https://aishahsatouf.github.io/201reading-notes/)
 * [Docs for HTML,element &chart.js](https://aishahsatouf.github.io/201reading-notes/)
 * [Local storage](https://aishahsatouf.github.io/201reading-notes/)

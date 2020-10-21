@@ -14,6 +14,6 @@
 * [Assorted topics](https://aishahsatouf.github.io/201reading-notes/read11)
 * [Docs for HTML,element &chart.js](https://aishahsatouf.github.io/201reading-notes/read12)
 * [Local storage](https://aishahsatouf.github.io/201reading-notes/read13)
-* [CSS Transforms,Transitions and Animation](https://aishahsatouf.github.io/201reading-notes/)
-* [What GoogleLearned Abot Teams](https://aishahsatouf.github.io/201reading-notes/)
+* [CSS Transforms,Transitions and Animation](https://aishahsatouf.github.io/201reading-notes/read14a)
+* [What GoogleLearned Abot Teams](https://aishahsatouf.github.io/201reading-notes/read14b)
 
